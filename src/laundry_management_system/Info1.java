@@ -63,14 +63,14 @@ public class Info1 extends javax.swing.JFrame {
         jLabel4.setBackground(new java.awt.Color(255, 0, 0));
         jLabel4.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel4.setText("Yash Jain");
+        jLabel4.setText("Ayush Jain");
         jLabel4.setOpaque(true);
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(221, 150, 130, -1));
 
         jLabel5.setBackground(new java.awt.Color(255, 0, 0));
         jLabel5.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel5.setText("Abhinav Jain");
+        jLabel5.setText("Mihir Jain");
         jLabel5.setOpaque(true);
         getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(226, 200, 160, -1));
 
